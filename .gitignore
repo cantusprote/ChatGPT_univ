@@ -1,0 +1,16 @@
+.venv/
+.env
+.obsidian-mcp/
+.install-stamp
+.logs/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+.DS_Store

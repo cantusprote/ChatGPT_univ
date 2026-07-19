@@ -1,0 +1,5 @@
+RAG, zotero, obsidian 을 통합한 모델. 
+
+처음실행하면, obsidian 의 노트와 그림을 indexing 에서 폴더에 chromaDB 를 만든다.
+RAG 의 chromaDB 는 pdf-index 를 통해 성성된 DB 를 그대로 이용. 
+
